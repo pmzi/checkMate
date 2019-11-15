@@ -45,6 +45,9 @@ export default {
   justify-content: center;
   align-items: center;
 
+  width: 100px;
+  height: 100px;
+
   &--colored {
     background-color: gray;
   }

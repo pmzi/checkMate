@@ -56,12 +56,7 @@ export default {
 
   border: 1px solid black;
   &__row {
-    height: 80px;
     display: flex;
-  }
-  &__cell {
-    height: 100%;
-    width: 80px;
   }
 }
 </style>
