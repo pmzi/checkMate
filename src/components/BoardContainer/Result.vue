@@ -34,6 +34,7 @@ export default {
 
 <style lang="scss">
 .result {
-  margin-top: 20px;
+  height: 80px;
+  line-height: 80px;
 }
 </style>
