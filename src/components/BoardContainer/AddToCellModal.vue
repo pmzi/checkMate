@@ -40,12 +40,10 @@ export default {
   justify-content: center;
   &__inside {
     background-color: white;
-    width: 320px;
-    height: 240px;
 
     display: grid;
-    grid-template-rows: repeat(3, 1fr);
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 100px);
+    grid-template-columns: repeat(4, 100px);
     justify-items: stretch;
   }
 
